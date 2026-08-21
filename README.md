@@ -35,7 +35,7 @@ desktop software and clean, functional interfaces
 
 <p align="center">
 <img
-  src="./assets/workhealth.png"
+  src="./assets/og-image.png"
   width="100%"
   alt="Body OS"
 />
@@ -130,7 +130,7 @@ View repository →
 
 <p align="center">
 <img
-  src="./assets/ytstatstracker.png"
+  src="./assets/ytdlp.png"
   width="100%"
   alt="YouTube Stats Tracker"
 />

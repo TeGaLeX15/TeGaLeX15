@@ -68,7 +68,7 @@ View repository →
 
 <p align="center">
 <img
-  src="./assets/libris.png"
+  src="./assets/libris.jpg"
   width="100%"
   alt="Libris"
 />
@@ -130,7 +130,7 @@ View repository →
 
 <p align="center">
 <img
-  src="./assets/ytdlp.png"
+  src="./assets/ytstatstracker.png"
   width="100%"
   alt="YouTube Stats Tracker"
 />

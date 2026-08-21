@@ -35,7 +35,7 @@ desktop software and clean, functional interfaces
 
 <p align="center">
 <img
-  src="./assets/og-image.png"
+  src="./assets/og-image.jpg"
   width="100%"
   alt="Body OS"
 />

@@ -68,7 +68,7 @@ View repository →
 
 <p align="center">
 <img
-  src="./assets/libris.jpg"
+  src="./assets/libris.png"
   width="100%"
   alt="Libris"
 />
